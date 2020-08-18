@@ -6,3 +6,6 @@ Does this work?
 
 ## Section 2
 Yes it works...
+
+## Section 3
+Adding a new section here...
