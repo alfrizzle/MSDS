@@ -9,3 +9,6 @@ Yes it works...
 
 ## Section 3
 Adding a new section here...
+
+## AWS SageMaker Refs
+https://blog.codecentric.de/en/2020/01/aws-sagemaker-data-handling/
